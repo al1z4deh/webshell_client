@@ -1,5 +1,7 @@
 # webshell_client
 
+##Sometimes we encounter difficulties while typing commands with WebShell. This may seem tedious to us as you dedicate yourself to typing in the terminal. I decided to create a client for it.
+
 ![image](https://user-images.githubusercontent.com/90620429/227739888-6f807134-86a1-4760-accd-4ae32dbaf9c2.png)
 
 
